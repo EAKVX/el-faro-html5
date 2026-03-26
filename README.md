@@ -50,5 +50,4 @@ assets/
 
 Proyecto desarrollado como parte de formación en programación.
 
-## 📂 Estructura del proyecto
 
