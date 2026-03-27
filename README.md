@@ -1,9 +1,12 @@
 # el-faro-html5
-Sitio web desarrollado en HTML5 para Noticias "El Faro"
 
-# 📰 El Faro - Sitio Web HTML5
+Sitio web desarrollado en HTML5 para el periódico digital "El Faro".
 
-Bienvenidos a El Faro, el espacio donde la información cobra vida y te mantiene siempre un paso adelante. Mantente informado con todas las noticias que necesitas saber, reunidas en un solo lugar.
+---
+
+## 📰 El Faro - Sitio Web HTML5
+
+Bienvenidos a El Faro, el espacio donde la información cobra vida y te mantiene siempre un paso adelante. Mantente informado con todas las noticias relevantes en un solo lugar.
 
 ---
 
@@ -20,7 +23,7 @@ Este proyecto corresponde al desarrollo de un sitio web en HTML5 para un periód
 - Sección de deportes con noticias reales
 - Integración de video HTML5
 - Integración de audio HTML5
-- Uso de etiquetas semánticas HTML5
+- Uso de etiquetas semánticas HTML5 (`header`, `nav`, `section`, `article`, `footer`)
 
 ---
 
@@ -28,15 +31,13 @@ Este proyecto corresponde al desarrollo de un sitio web en HTML5 para un periód
 
 - HTML5
 
----
+Estructura del proyecto:
 
 index.html
 assets/
 ├── audio/
 ├── video/
 └── img/
-
-
 
 ---
 
